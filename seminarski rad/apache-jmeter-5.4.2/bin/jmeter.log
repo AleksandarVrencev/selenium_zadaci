@@ -1,0 +1,23 @@
+2022-01-06 10:31:34,643 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2022-01-06 10:31:34,674 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2022-01-06 10:31:34,676 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2022-01-06 10:31:34,682 INFO o.a.j.JMeter: Copyright (c) 1998-2021 The Apache Software Foundation
+2022-01-06 10:31:34,682 INFO o.a.j.JMeter: Version 5.4.2
+2022-01-06 10:31:34,682 INFO o.a.j.JMeter: java.version=15.0.2
+2022-01-06 10:31:34,683 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2022-01-06 10:31:34,683 INFO o.a.j.JMeter: os.name=Windows 10
+2022-01-06 10:31:34,683 INFO o.a.j.JMeter: os.arch=amd64
+2022-01-06 10:31:34,683 INFO o.a.j.JMeter: os.version=10.0
+2022-01-06 10:31:34,683 INFO o.a.j.JMeter: file.encoding=Cp1252
+2022-01-06 10:31:34,683 INFO o.a.j.JMeter: java.awt.headless=null
+2022-01-06 10:31:34,683 INFO o.a.j.JMeter: Max memory     =1073741824
+2022-01-06 10:31:34,683 INFO o.a.j.JMeter: Available Processors =8
+2022-01-06 10:31:34,694 INFO o.a.j.JMeter: Default Locale=English (EN)
+2022-01-06 10:31:34,694 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2022-01-06 10:31:34,694 INFO o.a.j.JMeter: JMeterHome=C:\Users\Aleksandar\Desktop\testiranje softvera\seminarski rad\apache-jmeter-5.4.2
+2022-01-06 10:31:34,694 INFO o.a.j.JMeter: user.dir  =C:\Users\Aleksandar\Desktop\testiranje softvera\seminarski rad\apache-jmeter-5.4.2\bin
+2022-01-06 10:31:34,695 INFO o.a.j.JMeter: PWD       =C:\Users\Aleksandar\Desktop\testiranje softvera\seminarski rad\apache-jmeter-5.4.2\bin
+2022-01-06 10:31:39,234 INFO o.a.j.JMeter: IP: 192.168.56.1 Name: aca FullName: aca
+2022-01-06 10:31:39,459 INFO o.a.j.JMeter: Setting LAF to: com.github.weisj.darklaf.DarkLaf:com.github.weisj.darklaf.theme.DarculaTheme
+2022-01-06 10:31:40,404 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2022-01-06 10:31:48,641 INFO o.a.j.g.a.t.TemplateManager: Reading templates from: C:\Users\Aleksandar\Desktop\testiranje softvera\seminarski rad\apache-jmeter-5.4.2\bin\templates\templates.xml
